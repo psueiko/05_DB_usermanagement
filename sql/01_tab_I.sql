@@ -14,7 +14,7 @@ DESCRIBE mydb.employees;
 
 INSERT INTO mydb.employees (name, surname, age, salary, employee_id)
 VALUES
-  ('John', 'Doe', 25, 50000.00, 123),
+  ('Johnny', 'Doe', 25, 50000.00, 123),
   ('Jane', 'Doe', 30, 60000.00, 456),
   ('Bob', 'Smith', 40, 75000.00, 789),
   ('Alice', 'Johnson', 35, 65000.00, 234),
